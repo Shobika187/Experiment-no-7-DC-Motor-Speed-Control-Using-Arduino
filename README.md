@@ -62,6 +62,10 @@ delay(10);
 ```
 
 ### OUTPUT
+![p1](https://user-images.githubusercontent.com/94508142/170083039-f6e155f1-42bd-4257-a774-b2c1f5d35470.png)
+![p2](https://user-images.githubusercontent.com/94508142/170083101-a5a7992b-f106-4184-989b-d2a83535177e.png)
+
 
 ### RESULTS AND DISCUSSION 
+Thus the above DC motor speed control using Arduino successfully worked.
 
